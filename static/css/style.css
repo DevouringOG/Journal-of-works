@@ -2,3 +2,13 @@
     color: gray;
     padding-left: 12px;
 }
+
+.works-log {
+    font-weight: bold;
+    text-align: center;
+}
+
+.action {
+    width: 90%;
+    margin-inline: 5%;
+}
